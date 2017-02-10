@@ -1,5 +1,3 @@
-package crawling;
-
 import java.io.IOException;
 
 import org.apache.http.HttpEntity;
